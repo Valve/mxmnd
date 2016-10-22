@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/Valve/mxmnd/badges/gpa.svg)](https://codeclimate.com/github/Valve/mxmnd)
+
 # Mxmnd
 
 Minimalistic MaxMind API wrapper for Ruby.
