@@ -4,6 +4,8 @@ Minimalistic MaxMind API wrapper for Ruby.
 
 `Faraday` is the only runtime dependency.
 
+Supports only `#city` API call. API compatible with `Geoip2.city`.
+
 
 ## Installation
 
