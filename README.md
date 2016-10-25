@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Valve/mxmnd.svg?branch=master)](https://travis-ci.org/Valve/mxmnd)
 [![Code Climate](https://codeclimate.com/github/Valve/mxmnd/badges/gpa.svg)](https://codeclimate.com/github/Valve/mxmnd)
 [![Gem Version](https://badge.fury.io/rb/mxmnd.svg)](https://badge.fury.io/rb/mxmnd)
 # Mxmnd
