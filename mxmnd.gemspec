@@ -6,7 +6,7 @@ require 'mxmnd'
 
 Gem::Specification.new do |spec|
   spec.name          = "mxmnd"
-  spec.version       = Mxmnd::VERSION
+  spec.version       = "0.1.0"
   spec.authors       = ["Valentin Vasilyev"]
   spec.email         = ["valentin.vasilyev@outlook.com"]
 

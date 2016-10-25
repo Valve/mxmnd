@@ -2,7 +2,6 @@ require 'json'
 require 'faraday'
 
 module Mxmnd
-  VERSION = '0.1.0'
   BASE_URL = 'https://geoip.maxmind.com'.freeze
   BASE_PATH = '/geoip/v2.1'.freeze
   USER_ID_ENV_KEY = 'MAX_MIND_USER_ID'.freeze
