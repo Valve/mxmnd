@@ -7,6 +7,3 @@ def presence_of_keys?(dict, keys_array)
   true
 end
 
-def hash_including_locales(dict, num_of_locales)
-  dict.is_a?(Hash) && dict['names'].length == num_of_locales
-end
