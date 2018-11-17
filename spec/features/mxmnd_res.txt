@@ -1,0 +1,97 @@
+HTTP/1.1 200 OK
+Content-Length: 2514
+Content-Type: application/vnd.maxmind.com-city+json; charset=UTF-8; version=2.1
+Date: Thu, 04 Oct 2018 16:38:05 GMT
+Server: geoip2-daemon
+
+{
+    "city": {
+        "geoname_id": 4691930, 
+        "names": {
+            "de": "Fort Worth", 
+            "en": "Fort Worth", 
+            "es": "Fort Worth", 
+            "fr": "Fort Worth", 
+            "ja": "フォートワース", 
+            "pt-BR": "Fort Worth", 
+            "ru": "Форт-Уэрт", 
+            "zh-CN": "沃思堡"
+        }
+    }, 
+    "continent": {
+        "code": "NA", 
+        "geoname_id": 6255149, 
+        "names": {
+            "de": "Nordamerika", 
+            "en": "North America", 
+            "es": "Norteamérica", 
+            "fr": "Amérique du Nord", 
+            "ja": "北アメリカ", 
+            "pt-BR": "América do Norte", 
+            "ru": "Северная Америка", 
+            "zh-CN": "北美洲"
+        }
+    }, 
+    "country": {
+        "geoname_id": 6252001, 
+        "iso_code": "US", 
+        "names": {
+            "de": "USA", 
+            "en": "United States", 
+            "es": "Estados Unidos", 
+            "fr": "États-Unis", 
+            "ja": "アメリカ合衆国", 
+            "pt-BR": "Estados Unidos", 
+            "ru": "США", 
+            "zh-CN": "美国"
+        }
+    }, 
+    "location": {
+        "accuracy_radius": 10, 
+        "latitude": 32.8813, 
+        "longitude": -97.3622, 
+        "metro_code": 623, 
+        "time_zone": "America/Chicago"
+    }, 
+    "maxmind": {
+        "queries_remaining": 1498668
+    }, 
+    "postal": {
+        "code": "76131"
+    }, 
+    "registered_country": {
+        "geoname_id": 6252001, 
+        "iso_code": "US", 
+        "names": {
+            "de": "USA", 
+            "en": "United States", 
+            "es": "Estados Unidos", 
+            "fr": "États-Unis", 
+            "ja": "アメリカ合衆国", 
+            "pt-BR": "Estados Unidos", 
+            "ru": "США", 
+            "zh-CN": "美国"
+        }
+    }, 
+    "subdivisions": [
+        {
+            "geoname_id": 4736286, 
+            "iso_code": "TX", 
+            "names": {
+                "en": "Texas", 
+                "es": "Texas", 
+                "fr": "Texas", 
+                "ja": "テキサス州", 
+                "ru": "Техас", 
+                "zh-CN": "德克萨斯州"
+            }
+        }
+    ], 
+    "traits": {
+        "autonomous_system_number": 7018, 
+        "autonomous_system_organization": "AT&T Services, Inc.", 
+        "ip_address": "45.17.22.11", 
+        "isp": "AT&T Internet Services", 
+        "organization": "AT&T Internet Services"
+    }
+}
